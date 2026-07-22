@@ -1213,6 +1213,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 4482661183102279980}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 1822727c32ef1454e9a7b21581211023, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 10.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1822727c32ef1454e9a7b21581211023, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1822727c32ef1454e9a7b21581211023, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 10.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1822727c32ef1454e9a7b21581211023, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0
       objectReference: {fileID: 0}
