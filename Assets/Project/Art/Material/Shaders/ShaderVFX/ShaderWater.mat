@@ -69,9 +69,9 @@ Material:
     - _ZWrite: 1
     - _ZWriteControl: 1
     m_Colors:
-    - _Color: {r: 0.92858714, g: 5.2164755, b: 4.9552784, a: 1}
+    - _Color: {r: 0.24111289, g: 0, b: 0.012623707, a: 1}
     - _NormalsSpeed: {r: 0, g: 0.2, b: 0, a: 0}
-    - _VoronolColor: {r: 8.474191, g: 8.474191, b: 8.474191, a: 1}
+    - _VoronolColor: {r: 13.283019, g: 0, b: 0.1783292, a: 1}
     - _VoronolSpeed: {r: 0, g: 0.1, b: 0, a: 0}
     - _VoronolTilling: {r: 1.2, g: 0.6, b: 0, a: 0}
   m_BuildTextureStacks: []

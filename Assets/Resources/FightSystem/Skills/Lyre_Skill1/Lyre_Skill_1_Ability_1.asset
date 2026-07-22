@@ -17,7 +17,6 @@ MonoBehaviour:
   <FireDuration>k__BackingField: 0.5
   <HitInterval>k__BackingField: 0.2
   <RecoilDuration>k__BackingField: 0
-  <Cooldown>k__BackingField: 5
   <DamageOtherTeam>k__BackingField: 1
   <DamageSameTeam>k__BackingField: 0
   <FlatDamage>k__BackingField: 50
@@ -31,7 +30,7 @@ MonoBehaviour:
   <PercentHealMaxHp>k__BackingField: 0
   Cast_VFX: []
   Fire_VFX:
-  - {fileID: 2322356275825305367, guid: 485e798940142d445b4fffa4dd05310d, type: 3}
+  - {fileID: 3967680854690574330, guid: 457bf0e47dec75045a323e6f4dd3501d, type: 3}
   Recoil_VFX: []
   Castmovement: {fileID: 0}
   Firemovement: {fileID: 0}
