@@ -298,6 +298,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 680968146947218561}
+  - component: {fileID: -1711534021642509265}
   m_Layer: 0
   m_Name: Anneaux L E1
   m_TagString: Untagged
@@ -322,6 +323,19 @@ Transform:
   - {fileID: 2574369885729126277}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-1711534021642509265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7623969887844545219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535f960e4c9d62d49b7526fe84320704, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <RingData>k__BackingField: {fileID: 11400000, guid: 82ece7f1a055a1d46ab4033c53f34258, type: 2}
 --- !u!1 &7917935718126221591
 GameObject:
   m_ObjectHideFlags: 0

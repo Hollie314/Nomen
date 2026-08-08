@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1947504061107761293}
+  - component: {fileID: 3474279900930647270}
   m_Layer: 0
   m_Name: Anneaux Tartare S
   m_TagString: ISGround
@@ -32,6 +33,19 @@ Transform:
   - {fileID: 6622856114741344814}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3474279900930647270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5468858446319964330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535f960e4c9d62d49b7526fe84320704, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <RingData>k__BackingField: {fileID: 11400000, guid: 14f08f71670ee8340905f996f9d7ab3d, type: 2}
 --- !u!1001 &4679222609988749987
 PrefabInstance:
   m_ObjectHideFlags: 0
