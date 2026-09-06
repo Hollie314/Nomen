@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   biomeVariants:
   - biomeName: 0
-    ringVariantPrefab: {fileID: 4518502090442259622, guid: b52bd92be14964b47a89ca31d95c9003, type: 3}
+    ringVariantPrefab: {fileID: 7623969887844545219, guid: 6bcc61e5dcfbdf74d97ef2a334b71235, type: 3}
   - biomeName: 1
-    ringVariantPrefab: {fileID: 2374571842265558379, guid: 1ad6e4d74f44b6a4e95e21ed86b57085, type: 3}
+    ringVariantPrefab: {fileID: 7623969887844545219, guid: f92eae9d6c50f55468f51c0befbf7c4e, type: 3}
   - biomeName: 2
-    ringVariantPrefab: {fileID: 614088980876782514, guid: 01cce718f873390498f5675392ef938d, type: 3}
+    ringVariantPrefab: {fileID: 7623969887844545219, guid: 3ca9ccc2602c2d341ad265faecb0e15e, type: 3}
